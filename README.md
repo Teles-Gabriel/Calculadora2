@@ -17,7 +17,7 @@ Em seguida instale o express, nodemon, axios e cors com os seguintes comandos:
   npm install nodemon
 ```
 ```bash
-	npm install axios
+  npm install axios
 ```
 ```bash
   npm install cors
