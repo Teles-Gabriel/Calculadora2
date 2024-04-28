@@ -23,6 +23,8 @@ Em seguida instale o express, nodemon, axios e cors com os seguintes comandos:
   npm install cors
 ```
 
+É necessário atualizar o arquivo `package.json` e adicionar ao campo de scripts a chave `    "dev": "nodemon main.js"`.
+
 Para executar a API use o comando:
 ```bash
   npm run dev
